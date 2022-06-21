@@ -1,6 +1,6 @@
 certifi==2019.6.16
 cx-Oracle==7.2.2
-numpy==1.16.3
+numpy==1.22.0
 pandas==0.24.2
 pyodbc==4.0.27
 python-dateutil==2.8.0
